@@ -1,0 +1,10 @@
+.mcp.json
+env_local.json
+main.py
+.claude/
+.pytest_cache/
+.vscode/
+E/
+embeddings/
+model/
+venv/
